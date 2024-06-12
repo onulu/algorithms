@@ -29,8 +29,8 @@
 5. Merge Intervals
 6. Cyclic Sort
 7. In-place reversal
-8. Tree Breadth First Search
-9. Tree Depth First Search
+8. Tree Breadth First Search BFS
+9. Tree Depth First Search DFS
 
 ## LeetCode 문제 풀이 - Grind75기준
 
@@ -38,8 +38,8 @@
 
 ### Week 1 (6.11 - 6.15)
 
-- [x] Two Sum (6.11)
-- [x] Valid Parentheses (6.12)
+- [x] [Two Sum (6.11)](/leetcode/1-two-sum.mdx)
+- [x] [Valid Parentheses (6.12)](/leetcode/20-valid-parentheses.mdx)
 - [ ] Merge Two Sorted Lists
 - [x] Best Time to Buy and Sell Stock (6.11)
 - [ ] Valid Palindrome
