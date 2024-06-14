@@ -59,18 +59,7 @@ function sumZero(arr) {
 }
 ```
 
-## 문제 리스트
+## LeetCode 문제 리스트
 
-1. Two Sum https://leetcode.com/problems/two-sum/
-1-1. Two Sum 2 - Input Array Is Sorted https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-2. Remove Duplicates from Sorted Array https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-3. Remove Element https://leetcode.com/problems/remove-element/
-4. Squaring a Sorted Array (easy) https://leetcode.com/problems/squares-of-a-sorted-array/
-5. Triplet Sum to Zero (medium) https://leetcode.com/problems/3sum/
-6. Triplet Sum Close to Target (medium) https://leetcode.com/problems/3sum-closest/
-7. Triplets with Smaller Sum (medium) https://leetcode.com/problems/3sum-smaller/
-8. Subarrays with Product Less than a Target (medium) https://leetcode.com/problems/subarray-product-less-than-k/
-9. Dutch National Flag Problem (medium) https://leetcode.com/problems/sort-colors/
-10. Quadruple Sum to Target (medium) https://leetcode.com/problems/4sum/
-11. Comparing Strings containing Backspaces (medium) https://leetcode.com/problems/backspace-string-compare/
-12. Minimum Window Sort (medium) https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+https://leetcode.com/discuss/study-guide/1688903/solved-all-two-pointers-problems-in-100-days
+
