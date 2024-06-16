@@ -1,4 +1,4 @@
-# 비기너(나)를 위한 알고리즘 스터디
+# 나를 위한 알고리즘 스터디
 
 ## 기본기 다지기
 
@@ -6,14 +6,14 @@
 2. Array 배열
 3. String 문자열
 4. Hash table 해쉬테이블
-5. Recursion 재귀
+5. [Recursion 재귀](./basics/recursion.md) ✅
 6. Sorting 정렬
-7. Searching 탐색
+7. [Searching 탐색](./basics/search.md) ✅
 
 ## 자료구조
 
 1. Matrix
-2. Linked list
+2. [Linked list](./basics/linked-list.md) ✅
 3. Queue
 4. Stack
 5. Tree
@@ -22,15 +22,14 @@
 
 ## 문제 해결 패턴
 
-1. Two Pointers
+1. [Two Pointers](./patterns/two-pointers.md) ✅
 2. Fast & Slow pointers
 3. Sliding Window
-4. Binary Search
-5. Merge Intervals
-6. Cyclic Sort
-7. In-place reversal
-8. Tree Breadth First Search BFS
-9. Tree Depth First Search DFS
+4. Merge Intervals
+5. Cyclic Sort
+6. In-place reversal
+7. Tree Breadth First Search BFS
+8. Tree Depth First Search DFS
 
 ## LeetCode 문제 풀이 - Grind75기준
 
@@ -46,7 +45,7 @@
 - [x] Binary Search (6.13)
 - [x] Merge Two Sorted Lists (6.14)
 - [x] Implement Queue using Stacks (6.14)
-- [ ] Linked List Cycle
+- [x] Linked List Cycle (6.14)
 - [ ] Flood Fill
 - [ ] Invert Binary Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
