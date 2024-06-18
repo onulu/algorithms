@@ -46,7 +46,22 @@
 - [x] Merge Two Sorted Lists (6.14)
 - [x] Implement Queue using Stacks (6.14)
 - [x] Linked List Cycle (6.14)
+- [x] Reverse Linked List (6.15)
+
+### Week 2 (6.17 - 6.23)
+
 - [ ] Flood Fill
 - [ ] Invert Binary Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Balanced Binary Tree
+- [x] First Bad Version (6.17)
+- [x] [Ransom Note (6.17)](./leetcode/383-ransom-note.mdx)
+- [ ] Climbing Stairs
+- [x] [Longest Palindrome (6.17)](./leetcode/409-longest-palindrome.mdx)
+- [ ] Majority Element
+- [ ] Add Binary
+- [ ] Diameter of Binary Tree
+- [ ] Middle of the Linked List
+- [ ] Maximum Depth of Binary Tree
+- [ ] Contains Duplicate
+- [ ] Maximum Sub-array
