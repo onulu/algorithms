@@ -37,10 +37,10 @@
 
 ### Week 1 (6.11 - 6.15)
 
-- [x] [Two Sum (6.11)](/leetcode/1-two-sum.mdx)
-- [x] [Best Time to Buy and Sell Stock (6.11)](/leetcode/121-best-time-to-buy-and-sell-stock.mdx)
-- [x] [Valid Parentheses (6.12)](/leetcode/20-valid-parentheses.mdx)
-- [x] [Valid Palindrome (6.13)](/leetcode/125-valid-palindrome.mdx)
+- [x] [Two Sum (6.11)](/leetcode/1-two-sum.md)
+- [x] [Best Time to Buy and Sell Stock (6.11)](/leetcode/121-best-time-to-buy-and-sell-stock.md)
+- [x] [Valid Parentheses (6.12)](/leetcode/20-valid-parentheses.md)
+- [x] [Valid Palindrome (6.13)](/leetcode/125-valid-palindrome.md)
 - [x] Valid Anagram (6.13)
 - [x] Binary Search (6.13)
 - [x] Merge Two Sorted Lists (6.14)
@@ -50,18 +50,18 @@
 
 ### Week 2 (6.17 - 6.23)
 
+- [x] [Ransom Note (6.17)](./leetcode/383-ransom-note.md)
+- [x] [Longest Palindrome (6.17)](./leetcode/409-longest-palindrome.md)
+- [x] First Bad Version (6.17)
+- [x] [Majority Element (6.18)](./leetcode/169-majority-element.md)
+- [x] Contains Duplicate (6.18)
+- [ ] Maximum Sub-array
 - [ ] Flood Fill
 - [ ] Invert Binary Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Balanced Binary Tree
-- [x] First Bad Version (6.17)
-- [x] [Ransom Note (6.17)](./leetcode/383-ransom-note.mdx)
 - [ ] Climbing Stairs
-- [x] [Longest Palindrome (6.17)](./leetcode/409-longest-palindrome.mdx)
-- [ ] Majority Element
 - [ ] Add Binary
 - [ ] Diameter of Binary Tree
 - [ ] Middle of the Linked List
 - [ ] Maximum Depth of Binary Tree
-- [ ] Contains Duplicate
-- [ ] Maximum Sub-array

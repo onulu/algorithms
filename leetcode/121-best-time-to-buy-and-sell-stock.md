@@ -8,11 +8,9 @@ date: 2024-06-11
 link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 ---
 
-# Best Time to Buy and Sell Stock
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-
-
 ## 문제 요약
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 주식을 사고 팔아서 가질 수 있는 가장 큰 이익을 찾는 문제이다.
 배열의 요소는 각 날짜의 주식 가격이다. [첫쨋날, 둘째날, ...]
 주식은 서로 다른날에 사고 팔 수 있으며 한번만 사고 팔 수 있다. 
@@ -113,6 +111,7 @@ function maxProfit(prices) {
 ```
 
 ## 그외 다른 방법
+
 ```js
 function maxProfit(prices) {
     let buyPrice = prices[0];

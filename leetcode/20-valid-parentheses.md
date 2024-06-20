@@ -11,10 +11,11 @@ link: https://leetcode.com/problems/valid-parentheses/
 ## 문제 요약
 
 괄호로 이루어진 문자열이 주어진다. 이때 괄호가 올바르게 열리고 닫혔는지 확인하라.
+
 - 열린 괄호는 같은 종류의 괄호로 닫혀야 한다.
 - 열린 괄호는 올바른 순서로 닫혀야 한다.
 
-
+```text
 Input: s = "()"
 Output: true
 
@@ -23,7 +24,7 @@ Output: true
 
 Input: s = "(]"
 Output: false
-
+```
 
 ## 접근 방법
 
@@ -32,7 +33,6 @@ Output: false
 닫힌 괄호가 나오면 가장 마지막에 추가된 스텍의 아이템과 비교해 같은지 확인한다.
 같지 않으면 순서가 틀린 경우이므로 false를 반환한다.
 마지막으로 스택이 비어있는지 확인한다. 
-
 
 ## 스텝 바이 스텝
 
@@ -67,5 +67,4 @@ var isValid = function(s) {
   // '((' 로 이루어진 경우 스택이 비어있지 않게 되므로 최종적으로 체크한다.
   return stack.length === 0
 }
-
 ```

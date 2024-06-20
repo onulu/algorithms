@@ -34,3 +34,21 @@ link: https://leetcode.com/problems/longest-palindrome
     return s.length > count ? count + 1 : count
   };
 ```
+
+```js
+  var longestPalindrome = function(s) {
+    const set = new Set()
+    let count = 0
+
+    for (let char of s) {
+      if (set.has(char)) {
+        set.delete(char)
+        count+=2
+      }else {
+        set.add(char)
+      }
+    }
+
+    return set.size ? res + 1 : res
+  }
+```

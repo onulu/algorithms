@@ -17,7 +17,7 @@ link: https://leetcode.com/problems/ransom-note/
 해시 테이블에 저장해서 비교하는 방법과 magazine을 순회하면서 ransomNote의 문자를 찾아서 제거하는 방법이 있다.
 `String.prototype.replace()`를 사용하면 magazine의 문자가 ransomNote에 존재하는지 파악할 수 있다.
 
-1. hash table을 이용한 방법
+### hash table을 이용한 방법
 
 - `magazine`의 문자열을 해시 테이블에 저장한다.
 - `ransomNote`의 문자열을 순회하면서, 해당 문자가 해시 테이블에 존재하는지 확인한다.
@@ -25,13 +25,12 @@ link: https://leetcode.com/problems/ransom-note/
   - 존재한다면, 해당 문자를 해시 테이블에서 제거한다.
 - 모든 문자를 순회했다면, `true`를 반환한다.
 
-2. magazine을 순회하면서 찾는 방법
+### magazine을 순회하면서 찾는 방법
 
 - `magazine`을 순회하면서
   - `ransomNote`에서 해당 문자가 있으면 빈문자열로 제거한다. (`String.prototype.replace()`)
 - `ransomNote`의 길이가 0이라면, `true`를 반환한다.
 - `ransomNote`의 길이가 0이 아니라면, `false`를 반환한다.
-
 
 ## 코드
 
