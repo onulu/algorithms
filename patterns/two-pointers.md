@@ -61,5 +61,4 @@ function sumZero(arr) {
 
 ## LeetCode 문제 리스트
 
-https://leetcode.com/discuss/study-guide/1688903/solved-all-two-pointers-problems-in-100-days
-
+<https://leetcode.com/discuss/study-guide/1688903/solved-all-two-pointers-problems-in-100-days>

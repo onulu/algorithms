@@ -55,13 +55,43 @@
 - [x] First Bad Version (6.17)
 - [x] [Majority Element (6.18)](./leetcode/169-majority-element.md)
 - [x] Contains Duplicate (6.18)
-- [ ] Maximum Sub-array
+- [x] Add Binary (6.19)
+- [x] Middle of the Linked List (6.20)
+- [x] Maximum Depth of Binary Tree (6.21)
+- [x] Diameter of Binary Tree (6.23)
+- [x] Invert Binary Tree (6.23)
+
+### Week 3 (6.24 - 6.30)
+
+- [x] Balanced Binary Tree (6.27)
+- [x] Lowest Common Ancestor of a Binary Search Tree (6.28)
+- [x] Insert Interval (6.28)
+- [x] 3 Sum (6.28)
+- [ ] Binary Tree Level Order Traversal
+
+### Week 4
+
 - [ ] Flood Fill
-- [ ] Invert Binary Tree
-- [ ] Lowest Common Ancestor of a Binary Search Tree
-- [ ] Balanced Binary Tree
+- [ ] Maximum Sub-array
 - [ ] Climbing Stairs
-- [ ] Add Binary
-- [ ] Diameter of Binary Tree
-- [ ] Middle of the Linked List
-- [ ] Maximum Depth of Binary Tree
+- 01 Matrix
+- K Closest Points to Origin
+- Longest Substring Without Repeating Characters
+- Clone Graph
+- Evaluate Reverse Polish Notation
+
+### Week 5
+
+- [ ] Course Schedule
+- [ ] Implement Trie
+- [ ] Coin Change
+- [ ] Product of Array Except Self
+- [ ] Min Stack
+- [ ] Validate Binary Search Tree
+- [ ] Number of Islands
+- [ ] Rotting Oranges
+
+
+### Week 6
+
+  
