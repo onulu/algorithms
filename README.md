@@ -73,12 +73,12 @@
 ### Week 4 (7.1 - 7.8) - python
 
 - [x] Flood Fill (7.2)
-- [ ] Maximum Sub-array
-- [ ] Climbing Stairs
-- [ ] 01 Matrix
-- [ ] K Closest Points to Origin
+- [x] 01 Matrix (7.2)
+- [x] Maximum Sub-array (7.3)
 - [ ] Clone Graph
 - [ ] Evaluate Reverse Polish Notation
+- [ ] Climbing Stairs
+- [ ] K Closest Points to Origin
 
 ### Week 5
 
