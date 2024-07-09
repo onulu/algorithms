@@ -6,11 +6,11 @@
 
 ## Types of Graph
 
-1. Undirected Graph - 방향성이 없다. (A -> B 이면 B -> A)
-2. Directed Graph - 방향성이 있다. (A -> B 이면 B -> A 는 아니다.)
-3. Weighted Graph - edge에 가중치가 있다. (가중치는 최단 경로, 최소 비용 등을 구할 때 사용한다.)
-4. Cyclic Graph - 순환 구조를 가진다. (A -> B -> C -> A)
-5. Acyclic Graph - 순환 구조를 가지지 않는다. (A -> B -> C)
+- Undirected Graph - 방향성이 없다. (A -> B 이면 B -> A)
+- Directed Graph - 방향성이 있다. (A -> B 이면 B -> A 는 아니다.)
+- Weighted Graph - edge에 가중치가 있다. (가중치는 최단 경로, 최소 비용 등을 구할 때 사용한다.)
+- Cyclic Graph - 순환 구조를 가진다. (A -> B -> C -> A)
+- Acyclic Graph - 순환 구조를 가지지 않는다. (A -> B -> C)
 
 ## Representations of Graph
 
@@ -18,7 +18,6 @@
 
 1. 인접 행렬(Adjacency Matrix)
 2. 인접 리스트(Adjacency List)
-
 
 ### Adjacency Matrix (인접 행렬)
 
@@ -45,6 +44,21 @@ const graph = {
   3: [1]
 }
 ```
+
 [Javascript Graph Adjacency List](./graph.js)
 
+## Depth First Search (DFS)
+
+### Recursive
+
+```text
+DFS(vertex):
+  if vertex is empty
+    return null
+  add vertex to results list
+  mark vertex as visited
+  for each neighbor in vertex's neighbors:
+    if neighbor is not visited:
+      recursively call DFS on neighbor
+```
 

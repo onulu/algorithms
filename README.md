@@ -67,18 +67,18 @@
 - [x] Lowest Common Ancestor of a Binary Search Tree (6.28)
 - [x] Insert Interval (6.28)
 - [x] 3 Sum (6.28)
-- [ ] Binary Tree Level Order Traversal
+- [x] Binary Tree Level Order Traversal (6.29)
+- [x] Longest Substring Without Repeating Characters (6.30)
 
-### Week 4
+### Week 4 (7.1 - 7.8) - python
 
-- [ ] Flood Fill
+- [x] Flood Fill (7.2)
 - [ ] Maximum Sub-array
 - [ ] Climbing Stairs
-- 01 Matrix
-- K Closest Points to Origin
-- Longest Substring Without Repeating Characters
-- Clone Graph
-- Evaluate Reverse Polish Notation
+- [ ] 01 Matrix
+- [ ] K Closest Points to Origin
+- [ ] Clone Graph
+- [ ] Evaluate Reverse Polish Notation
 
 ### Week 5
 
