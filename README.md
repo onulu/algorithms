@@ -70,28 +70,10 @@
 - [x] Binary Tree Level Order Traversal (6.29)
 - [x] Longest Substring Without Repeating Characters (6.30)
 
-### Week 4 (7.1 - 7.8) - python
+### Week 4 (7.1 - 7.8)
 
 - [x] Flood Fill (7.2)
 - [x] 01 Matrix (7.2)
 - [x] Maximum Sub-array (7.3)
-- [ ] Clone Graph
-- [ ] Evaluate Reverse Polish Notation
-- [ ] Climbing Stairs
-- [ ] K Closest Points to Origin
-
-### Week 5
-
-- [ ] Course Schedule
-- [ ] Implement Trie
-- [ ] Coin Change
-- [ ] Product of Array Except Self
-- [ ] Min Stack
-- [ ] Validate Binary Search Tree
-- [ ] Number of Islands
-- [ ] Rotting Oranges
-
-
-### Week 6
-
-  
+- [x] K Closest Points to Origin (7.9)
+- [x] Evaluate Reverse Polish Notation (7.10)
